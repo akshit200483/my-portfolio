@@ -6,13 +6,13 @@
    ========================================================================= */
 
 export const site = {
-  name: "Alex Carter",
-  role: "Creative Developer",
+  name: "ANANDA KUMAR SHIL",
+  role: "DATA ENTRY EXPERT",
   // Words that rotate/animate in the hero (add or remove freely)
   rotatingWords: ["Web Apps", "Interfaces", "Experiences", "Products"],
   tagline:
     "I build fast, futuristic digital products where clean engineering meets bold design.",
-  logo: "AC",
+  logo: "AKS",
 };
 
 export const heroButtons = {
