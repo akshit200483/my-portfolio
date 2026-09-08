@@ -84,11 +84,11 @@ export const projects = [
 export const contact = {
   heading: "Let's Build Something",
   text: "Got a project or just want to chat? My inbox is always open.",
-  email: "hello@alexcarter.dev",
+  email: "anando.official.83@gmail.com",
 };
 
 export const socials = [
-  { label: "GitHub", href: "https://github.com" },
+  { label: "GitHub", href: "https://github.com/akshit200483" },
   { label: "LinkedIn", href: "https://linkedin.com" },
   { label: "Twitter", href: "https://twitter.com" },
   { label: "Dribbble", href: "https://dribbble.com" },
